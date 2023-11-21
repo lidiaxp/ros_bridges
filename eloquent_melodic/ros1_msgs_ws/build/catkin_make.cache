@@ -1,0 +1,2 @@
+catkin_simple:octomap_msgs:voxblox_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ros1_msgs_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros1_msgs_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros1_msgs_ws/devel_isolated/octomap_msgs/setup.sh

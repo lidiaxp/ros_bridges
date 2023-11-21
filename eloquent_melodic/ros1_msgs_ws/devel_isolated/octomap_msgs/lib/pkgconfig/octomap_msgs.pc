@@ -1,0 +1,8 @@
+prefix=/home/ros1_msgs_ws/devel_isolated/octomap_msgs
+
+Name: octomap_msgs
+Description: Description of octomap_msgs
+Version: 0.3.5
+Cflags: -I/home/ros1_msgs_ws/devel_isolated/octomap_msgs/include -I/home/ros1_msgs_ws/src/octomap_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs std_msgs
